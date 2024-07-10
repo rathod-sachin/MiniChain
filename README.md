@@ -74,4 +74,4 @@ This method sets up the initial conditions of the blockchain and tests its core 
 
 ## Contact
 
-For any questions or inquiries, please contact Sachin Rathod at sachinrathod2906@gmail.com.
+For any questions or inquiries, please contact Sachin Rathod at sachinrathod2906@gmail.com
